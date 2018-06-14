@@ -6,3 +6,9 @@
 
 Tensorflow系列 
 百度云链接: https://pan.baidu.com/s/1d4a1eRDyKrsleJhLBTeUPA 密码: bxeg
+
+
+https://blog.csdn.net/snoopy_yuan/article/details/62045353
+
+
+https://github.com/Tsingke/Machine-Learning_ZhouZhihua
